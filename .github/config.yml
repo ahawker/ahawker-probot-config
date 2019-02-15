@@ -1,0 +1,8 @@
+# https://github.com/probot/probot-config
+
+# https://github.com/behaviorbot/request-info
+requestInfoReplyComment: >
+  We would really like to help but it will be difficult without more information.
+requestInfoLabelToAdd: status: need more info
+requestInfoUserstoExclude:
+  - ahawker
