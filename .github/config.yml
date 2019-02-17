@@ -6,3 +6,8 @@ requestInfoReplyComment: >
 requestInfoLabelToAdd: status: need more info
 requestInfoUserstoExclude:
   - ahawker
+
+# https://github.com/JasonEtco/todo
+todo:
+  label:
+    - 'status: available'
