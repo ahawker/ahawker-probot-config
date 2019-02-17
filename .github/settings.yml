@@ -25,9 +25,35 @@ teams:
     permission: pull
 
 labels:
-  - name: bug
-    color: E60007
-  - name: duplicate
-    color: CACACA
-  - name: enhancement
-    color: 86B3E9
+  - name: 'priority: critical'
+    color: D7001A
+  - name: 'priority: high'
+    color: E34D1A
+  - name: 'priority: medium'
+    color: F8C10B
+  - name: 'priority: low'
+    color: 138902
+  - name: 'status: abandonded'
+    color: 262626
+  - name: 'status: accepted'
+    color: 210042
+  - name: 'status: available'
+    color: FFE92E
+  - name: 'status: blocked'
+    color: C9B5F8
+  - name: 'status: complete'
+    color: 1E80EF
+  - name: 'status: in-progress'
+    color: A5E7EE
+  - name: 'status: in-review'
+    color: FB4E49
+  - name: 'type: bug'
+    color: EE2B2A
+  - name: 'type: enhancement'
+    color: FD8508
+  - name: 'type: investigate'
+    color: 654338
+  - name: 'type: maintenance'
+    color: 303AA6
+  - name: 'type: question'
+    color: E10051
