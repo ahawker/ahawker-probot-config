@@ -16,14 +16,6 @@ repository:
   allow_merge_commit: true
   allow_rebase_merge: true
 
-teams:
-  - name: rwx
-    permission: admin
-  - name: rw
-    permission: push
-  - name: r
-    permission: pull
-
 labels:
   - name: 'priority: critical'
     color: D7001A
