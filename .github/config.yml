@@ -9,5 +9,6 @@ requestInfoUserstoExclude:
 
 # https://github.com/JasonEtco/todo
 todo:
+  reopenClosed: false
   label:
     - 'status: available'
