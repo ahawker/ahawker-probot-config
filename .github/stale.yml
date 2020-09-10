@@ -5,6 +5,7 @@ daysUntilClose: 30
 
 exemptLabels:
   - 'priority: critical'
+  - 'type: maintenance'
 
 staleLabel: 'status: abandonded'
 
