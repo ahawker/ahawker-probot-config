@@ -1,7 +1,7 @@
 # https://github.com/probot/stale
 
-daysUntilStale: 90
-daysUntilClose: 30
+daysUntilStale: 180
+daysUntilClose: 90
 
 exemptLabels:
   - 'priority: critical'
@@ -10,7 +10,7 @@ exemptLabels:
 staleLabel: 'status: abandonded'
 
 markComment: >
-  This issue has been marked stale/abandoned. It will automatically be closed 30 days from now unless updated.
+  This issue has been marked stale/abandoned. It will automatically be closed 90 days from now unless updated.
 
 unmarkComment: false
 closeComment: false
